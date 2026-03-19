@@ -1,0 +1,84 @@
+{
+  "apps": [
+    {
+      "id": "allmanga anime",
+      "name": "AllManga Anime",
+      "author": "Knight-Of-Meta",
+      "category": "anime",
+      "contentType": "sfw",
+      "downloadUrl": "https://raw.githubusercontent.com/Knight-Of-Meta/External-Apps/refs/heads/main/allmanga%20anime.zip",
+      "version": "v1.0.0",
+      "description": "Lot of server options (Mostly fast & smooth), Very large library, Advanced anime info & filter."
+    },
+    {
+      "id": "animenosub",
+      "name": "Animenosub",
+      "author": "Knight-Of-Meta",
+      "category": "anime",
+      "contentType": "sfw",
+      "downloadUrl": "https://raw.githubusercontent.com/Knight-Of-Meta/External-Apps/refs/heads/main/animenosub.zip",
+      "version": "v1.0.0",
+      "description": "Multiple server options, Provides both sub & raw video, Long track record (2017), High quality video."
+    },
+    {
+      "id": "animepahe",
+      "name": "Animepahe",
+      "author": "Knight-Of-Meta",
+      "category": "anime",
+      "contentType": "sfw",
+      "downloadUrl": "https://raw.githubusercontent.com/Knight-Of-Meta/External-Apps/refs/heads/main/animepahe.zip",
+      "version": "v1.0.0",
+      "description": "Updates and selects the best video source/fansub release, Medium anime library, Simple & consistent video player, Small data usage, Long track record"
+    },
+    {
+      "id": "animestu",
+      "name": "Animestu",
+      "author": "Knight-Of-Meta",
+      "category": "anime",
+      "contentType": "sfw",
+      "downloadUrl": "https://raw.githubusercontent.com/Knight-Of-Meta/External-Apps/refs/heads/main/animetsu.zip",
+      "version": "v1.0.0",
+      "description": "Multiple sources & language, Modern interface, Content depends on the websites it scrapes"
+    },
+    {
+      "id": "aniwatch",
+      "name": "Aniwatch",
+      "author": "Knight-Of-Meta",
+      "category": "anime",
+      "contentType": "sfw",
+      "downloadUrl": "https://raw.githubusercontent.com/Knight-Of-Meta/External-Apps/refs/heads/main/aniwatch.zip",
+      "version": "v1.0.0",
+      "description": "Large library, Soft subtitle, multi languages, Modern site design, Reliable stream server"
+    },
+    {
+      "id": "kickassanime",
+      "name": "Kickassanime",
+      "author": "Knight-Of-Meta",
+      "category": "anime",
+      "contentType": "sfw",
+      "downloadUrl": "https://raw.githubusercontent.com/Knight-Of-Meta/External-Apps/refs/heads/main/kickassanime.zip",
+      "version": "v1.0.0",
+      "description": "High video bitrate, Modern site design, Reliable for new release, Soft subtitle, multi languages"
+    },
+    {
+      "id": "mangafire",
+      "name": "Mangafire",
+      "author": "Knight-Of-Meta",
+      "category": "manga",
+      "contentType": "sfw",
+      "downloadUrl": "https://raw.githubusercontent.com/Knight-Of-Meta/External-Apps/refs/heads/main/mangafire.zip",
+      "version": "v1.0.0",
+      "description": "Large library, Nice interface, Multi language selection"
+    },
+    {
+      "id": "weebcentral",
+      "name": "Weeb Central",
+      "author": "Knight-Of-Meta",
+      "category": "manga",
+      "contentType": "sfw",
+      "downloadUrl": "https://raw.githubusercontent.com/Knight-Of-Meta/External-Apps/refs/heads/main/weebcentral.zip",
+      "version": "v1.0.0",
+      "description": "Mostly high quality official translation, Well organized library"
+    }
+  ]
+}
