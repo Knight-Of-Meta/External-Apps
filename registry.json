@@ -79,15 +79,5 @@
       "downloadUrl": "https://raw.githubusercontent.com/Knight-Of-Meta/External-Apps/refs/heads/main/weebcentral.zip",
       "version": "v1.0.0",
       "description": "Mostly high quality official translation, Well organized library"
-    },
-    {
-      "id": "novelfire",
-      "name": "Novelfire",
-      "author": "Knight-Of-Meta",
-      "category": "novel/light novel",
-      "contentType": "sfw",
-      "downloadUrl": "https://raw.githubusercontent.com/Knight-Of-Meta/External-Apps/refs/heads/main/novelfire.zip",
-      "version": "v1.0.0",
-      "description": "Similar with LightNovelWorld, Large library, Text-to-speech support, Multi language support, Decently popular"
     }
   ]
